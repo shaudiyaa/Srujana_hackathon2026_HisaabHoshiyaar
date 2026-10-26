@@ -310,9 +310,9 @@ http://localhost:8000
 
 | `POST` | `/api/balance` | Update user opening cash balance |
 
-### Transactions (Money In & Out)
+### Transactions (Money In & Out) 
 
-| Method | Endpoint | Description |
+| Method | Endpoint | Description 2|
 
 | :--- | :--- | :--- |
 
